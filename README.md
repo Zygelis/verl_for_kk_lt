@@ -100,7 +100,7 @@ verl is fast with:
 - Scales up to 671B models and hundreds of GPUs with [expert parallelism](https://github.com/verl-project/verl/pull/1467)
 - Multi-gpu [LoRA RL](https://verl.readthedocs.io/en/latest/advance/ppo_lora.html) support to save memory.
 - Experiment tracking with wandb, swanlab, mlflow and tensorboard.
-- Hardware Support: Supports NVIDIA, AMD, [Ascend](https://github.com/verl-project/verl/blob/main/docs/ascend_tutorial/quick_start/ascend_quick_start.rst)
+- Hardware Support: Supports NVIDIA, AMD, [Ascend](https://github.com/verl-project/verl/blob/main/docs/ascend_tutorial/README.md)
 
 ## Getting Started
 
@@ -284,6 +284,7 @@ Welcome to register your awesome project build with `verl` for other developers'
 - [RuleReasoner](https://github.com/bigai-nlco/RuleReasoner): **RuleReasoner:** Reinforced Rule-based Reasoning via **Domain-aware Dynamic Sampling** (ICLR 2026) ![GitHub Repo stars](https://img.shields.io/github/stars/bigai-nlco/RuleReasoner)
 - [MetaphorStar](https://metaphorstar.github.io/): **Image Metaphor** Understanding and Reasoning with End-to-End **Visual Reinforcement Learning** ![GitHub Repo stars](https://img.shields.io/github/stars/MING-ZCH/MetaphorStar)
 - [DART-GUI](https://github.com/Computer-use-agents/dart-gui): a decoupled agentic RL framework for Computer Use Agents, achieving ~2× training speedup and ~5× environment utilization! ![GitHub Repo stars](https://img.shields.io/github/stars/Computer-use-agents/dart-gui)
+- [Rethinking OPD](https://github.com/thunlp/OPD): Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe ![GitHub Repo stars](https://img.shields.io/github/stars/thunlp/OPD)
 
 ## Contribution Guide
 
