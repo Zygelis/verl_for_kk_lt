@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "difficulty": "lengvas",
+    "islanders": [
+        "Emilija",
+        "Martynas"
+    ],
+    "statements": [
+        "Martynas sako: Emilija niekada nesako tiesos.",
+        "Emilija sako: Martynas yra tokio pat tipo kaip aš."
+    ],
+    "answer": {
+        "knaves": [
+            "Emilija"
+        ],
+        "knights": [
+            "Martynas"
+        ]
+    },
+    "answer_text": "Vienintelis melagis buvo Emilija, o vienintelis riteris buvo Martynas.",
+    "reasoning_text": "...",
+    "prompt": "...",
+    "system_prompt": "..."
+}
