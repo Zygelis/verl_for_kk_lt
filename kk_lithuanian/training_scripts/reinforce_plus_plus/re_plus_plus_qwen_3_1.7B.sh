@@ -28,8 +28,8 @@ rollout_gpu_mem_util=${ROLLOUT_GPU_MEM_UTIL:-0.6}
 rollout_n=${ROLLOUT_N:-4}
 
 # re++-specific hyperparameters
-use_kl_in_reward=${USE_KL_IN_REWARD:-True}
-use_kl_loss=${USE_KL_LOSS:-False}
+use_kl_in_reward=${USE_KL_IN_REWARD:-False}
+use_kl_loss=${USE_KL_LOSS:-True}
 
 # Data
 TRAIN_FILE=${TRAIN_FILE:-"['kk_lithuanian/data/qwen3_full/easy/train.parquet','kk_lithuanian/data/qwen3_full/medium/train.parquet','kk_lithuanian/data/qwen3_full/hard/train.parquet']"}
